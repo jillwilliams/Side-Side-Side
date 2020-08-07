@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(lightgreen, green);
+    margin: 25px 25px 25px 25px;
+    font-family: "Fresca";
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+#pic1, #pic2, #pic3 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 2px green solid;
+    outline: 1px white solid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#p1 {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
